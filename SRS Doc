@@ -3,4 +3,7 @@ Objective:
 Users of the System:
          1.Admin
          2.Viewers
+Functional Requirements:
+	Options to check specific locations (country-wise, state-wise, district-wise, city-wise) covid details from the given data by searching
+	Administration module to include options for updating the reports every day
 
