@@ -10,8 +10,12 @@ Functional Requirements:
 	-> Administration module to include options for updating the reports every day
         -> Home page shows the Time Stamp and Last updated details.
 	-> Additional information of Covid-19 is given in Read More.
-	-> Each side navigated icons has its own specific contents
-	-> Vaccine 1st and 2nd are vaccinated by 54.9% of the people in India currently
+	-> Each side navigated icons has its own specific contents.
+	-> Vaccine 1st and 2nd are vaccinated by 54.9% of the people in India currently.
+	-> Booster dose survey
+	-> Affected people of Covid-19 are differential by Confirmed, Active, Decreased, Recovered
+	-> Total number of people vaccinated doses are also administrated 
+
 
 Output/Post Condition:
 	Records Persisted in Success & Failure Collections
