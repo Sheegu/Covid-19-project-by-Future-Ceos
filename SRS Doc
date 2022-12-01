@@ -4,6 +4,8 @@ Users of the System:
          1.Admin
          2.Viewers
 Functional Requirements:
-	Options to check specific locations (country-wise, state-wise, district-wise, city-wise) covid details from the given data by searching
-	Administration module to include options for updating the reports every day
+	-> Built an online portal where viewers can access the covid information.
+	-> The online portal should have a content page and category-wise covid report pages.
+	-> Options to check specific locations (country-wise, state-wise, district-wise, city-wise) covid details from the given data by searching
+	-> Administration module to include options for updating the reports every day
 
