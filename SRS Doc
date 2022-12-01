@@ -15,6 +15,10 @@ Functional Requirements:
 	-> Booster dose survey
 	-> Affected people of Covid-19 are differential by Confirmed, Active, Decreased, Recovered
 	-> Total number of people vaccinated doses are also administrated 
+	->The tabular column referred here id mentioned the number of people affected by Covid-19 are differential by State wise and differentiated 
+	  by Confirmed, Active, Deceased, Recovered	
+	->India map mentioned here indicates the states with colored effects mentions the covid affected and delivers contents of states
+
 
 
 Output/Post Condition:
