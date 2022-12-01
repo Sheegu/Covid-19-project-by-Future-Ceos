@@ -16,3 +16,9 @@ Functional Requirements:
 Output/Post Condition:
 	Records Persisted in Success & Failure Collections
 	Standalone application / Deployed in an app container
+
+Key points to remember:
+        -> The id (for frontend) and attributes(backend) mentioned in the SRS should not be modified at any cost. Failing to do may fail test cases.
+	-> Remember to check the screenshots provided with the SRS. Strictly adhere to id mapping and attribute mapping. Failing to do may fail test cases.
+	-> Strictly adhere to the proper project scaffolding (Folder structure), coding conventions, method definitions, and return types.
+	-> Adhere strictly to the endpoints given below.
