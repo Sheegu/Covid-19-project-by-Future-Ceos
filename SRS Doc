@@ -8,6 +8,8 @@ Functional Requirements:
 	-> The online portal should have a content page and category-wise covid report pages.
 	-> Options to check specific locations (country-wise, state-wise, district-wise, city-wise) covid details from the given data by searching
 	-> Administration module to include options for updating the reports every day
+        -> Home page shows the Time Stamp and Last updated details.
+	-> Additional information of Covid-19 is given in Read More.
 
 Output/Post Condition:
 	Records Persisted in Success & Failure Collections
